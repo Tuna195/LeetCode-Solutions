@@ -21,9 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
