@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0657-robot-return-to-origin](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+## Simulation
+|  |
+| ------- |
+| [0657-robot-return-to-origin](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
 <!---LeetCode Topics End-->
