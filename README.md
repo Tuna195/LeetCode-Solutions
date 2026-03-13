@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
@@ -33,10 +34,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 ## Counting
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
