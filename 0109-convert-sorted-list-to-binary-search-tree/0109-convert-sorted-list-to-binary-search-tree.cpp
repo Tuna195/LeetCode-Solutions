@@ -21,23 +21,26 @@
  */
 class Solution {
 public:
-    TreeNode* Build_HB_BST(int v[], int left, int right){
-        if(left > right) return nullptr;
-        int mid = (left + right)/2;
-        TreeNode *node = new TreeNode(v[mid]);
-        node->left = Build_HB_BST(v, left, mid-1);
-        node->right = Build_HB_BST(v, mid + 1, right);
-        return node;
+    TreeNode* Build_HB_BST(ListNode* &currentNode, int n){
+        if(n == 0) return nullptr;
+        int left = n/2;
+        TreeNode* leftNode = Build_HB_BST(currentNode, left);
+        TreeNode* newNode = new TreeNode(currentNode->val);
+        newNode->left = leftNode;
+        currentNode = currentNode->next;
+        TreeNode* rightNode = Build_HB_BST(currentNode, n - left - 1);
+        newNode->right = rightNode;
+        return newNode;
     }
     TreeNode* sortedListToBST(ListNode* head) {
-        int v[20001];
+    
         int n = 0;
+        ListNode* currentNode = head;
         while(head != nullptr){
-            v[n] = (head->val);
             head = head->next;
             n++;
         }
-        return Build_HB_BST(v, 0, n-1);
+        return Build_HB_BST(currentNode, n);
 
     }
 };
