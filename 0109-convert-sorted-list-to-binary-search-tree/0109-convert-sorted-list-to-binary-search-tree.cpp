@@ -21,7 +21,7 @@
  */
 class Solution {
 public:
-    TreeNode* Build_HB_BST(vector<int> v, int left, int right){
+    TreeNode* Build_HB_BST(int v[], int left, int right){
         if(left > right) return nullptr;
         int mid = (left + right)/2;
         TreeNode *node = new TreeNode(v[mid]);
@@ -30,12 +30,13 @@ public:
         return node;
     }
     TreeNode* sortedListToBST(ListNode* head) {
-        vector<int> v;
+        int v[20001];
+        int n = 0;
         while(head != nullptr){
-            v.push_back(head->val);
+            v[n] = (head->val);
             head = head->next;
+            n++;
         }
-        int n = v.size();
         return Build_HB_BST(v, 0, n-1);
 
     }
