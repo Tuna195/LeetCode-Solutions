@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1544-make-the-string-great](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1544-make-the-string-great](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Hash Table
 |  |
 | ------- |
