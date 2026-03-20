@@ -1,8 +1,6 @@
 class Solution {
 public:
-    int calculate(string a, string b, string oprt){
-        int x = stoi(a);
-        int y = stoi(b);
+    int calculate(int x, int y, string oprt){
         if(oprt == "+") return x + y;
         else if(oprt == "-") return y - x;
         else if(oprt == "*") return y * x;
@@ -10,17 +8,17 @@ public:
     }
     int evalRPN(vector<string>& tokens) {
         int size = tokens.size();
-        vector<string> v;
+        vector<int> v;
         v.reserve(size);
         for(int i = 0; i < size; i++){
-            if(tokens[i].size() > 1 || isdigit(tokens[i][0])) v.push_back(tokens[i]);
+            if(tokens[i].size() > 1 || isdigit(tokens[i][0])) v.push_back(stoi(tokens[i]));
             else{
-                string a = v.back(); v.pop_back();
-                string b = v.back(); v.pop_back();
+                int a = v.back(); v.pop_back();
+                int b = v.back(); v.pop_back();
                 int c = calculate(a, b, tokens[i]);
-                v.push_back(to_string(c));
+                v.push_back(c);
             }
         }
-        return stoi(v[0]);
+        return v[0];
     }
 };
