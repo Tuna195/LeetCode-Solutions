@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
