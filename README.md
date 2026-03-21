@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0657-robot-return-to-origin](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Stack
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1544-make-the-string-great](https://github.com/Tuna195/LeetCode-Solutions/tree/master/1544-make-the-string-great) |
 ## Hash Table
 |  |
