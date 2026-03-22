@@ -11,7 +11,7 @@ public:
     }
     
     bool enQueue(int value) {
-        if(isFull()) return false;
+        if(cur_size >= max_size) return false;
         tail = (tail + 1) % max_size;
         v[tail] = value;
         cur_size++;
@@ -46,7 +46,7 @@ public:
     bool isFull() {
         return cur_size == max_size;
     }
-}; 
+};
 
 /**
  * Your MyCircularQueue object will be instantiated and called as such:
