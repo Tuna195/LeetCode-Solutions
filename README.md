@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0203-remove-linked-list-elements](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0622-design-circular-queue](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0622-design-circular-queue) |
 ## Divide and Conquer
 |  |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
