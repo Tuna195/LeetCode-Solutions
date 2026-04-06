@@ -11,11 +11,9 @@
 class Solution {
 public:
     ListNode* partition(ListNode* head, int x) {
-        ListNode* smaller; int a = 0; ListNode* part1 = nullptr;
-        ListNode* greater; int b = 0; ListNode* part2 = nullptr;
+        ListNode* smaller = nullptr; int a = 0; ListNode* part1 = nullptr;
+        ListNode* greater = nullptr; int b = 0; ListNode* part2 = nullptr;
         while(head != nullptr){
-            ListNode* nextNode = head->next;
-            head->next = nullptr;
             if(head->val >= x){
                 if(b == 0){
                     greater = head;
@@ -38,8 +36,9 @@ public:
                     smaller = head;
                 }
             }
-            head = nextNode;
+            head = head->next;
         }
+        if(greater != nullptr) greater->next = nullptr;
         if(part1 != nullptr){
             smaller->next = part2;
             return part1;
