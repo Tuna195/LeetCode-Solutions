@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0086-partition-list](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0203-remove-linked-list-elements](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tuna195/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
